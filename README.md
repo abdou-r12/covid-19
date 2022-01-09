@@ -1,11 +1,15 @@
-python script to show update case of coronavirus
+### Covid update checker
 
-library needed:
-    - pyqt5
-    - covid19_data
-    - matplotlib
+>##python script to show update case of coronavirus
 
-to install just use:
+>##library needed:
+ - pyqt5
+ - covid19_data
+ - matplotlib
+
+>##to install just use:
+ ```
     pip install pyqt5
     pip install covid19_data
     pip install matplotlib
+ ```
