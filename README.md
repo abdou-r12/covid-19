@@ -1,6 +1,6 @@
 ### Covid update checker
 
-># python script to show update case of coronavirus
+>python script to show update case of coronavirus
 
 >library needed:
  - pyqt5
